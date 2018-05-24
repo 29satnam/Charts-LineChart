@@ -2,6 +2,8 @@
 
 ### For more information check out the demo.
 
+
+
 ![Alt Text](https://raw.githubusercontent.com/29satnam/Charts-LineChart/master/demo.gif)
 
 ## Author
